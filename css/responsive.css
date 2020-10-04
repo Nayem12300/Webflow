@@ -1,0 +1,587 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+.header-area {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.headline-text h3 {
+    font-size: 30px;
+
+}
+
+.headline-img img {
+	width: 100%;
+}
+
+.product-area {
+    padding-top: 50px;
+}
+
+.pa-area-left {
+    margin-top: 20px;
+}
+
+.pa-area-right {
+    margin-top: 20px;
+}
+
+.pa-area-right2 {
+    padding-top: 100px;
+}
+
+.pa-area-left2 {
+    padding-top: 90px;
+}
+
+.pa-area-left3 {
+    padding-top: 90px;
+}
+
+.pa-area-right3 {
+    padding-top: 100px;
+}
+
+.problem-area {
+    margin-top: 20px;
+}
+
+.la-img {
+	padding: 0px 15px;
+}
+
+.pa-area-left1 {
+    padding-top: 30px;
+}
+
+.pa-area-right1 {
+    padding-top: 45px;
+}
+
+.pa-area-right1 h4 {
+	line-height: 35px;
+}
+.pa-area-right1 p {
+	line-height: 25px;
+}
+
+.problem-area {
+    padding: 30px 0px;
+}
+
+.getting-area-right h4 {
+    margin-top: 30px;
+}
+
+.getting-area-right-last h4 {
+    margin-top: 105px;
+}
+
+.Reinforce-area {
+    padding-top: 100px;
+    
+}
+
+
+
+
+
+/*
+
+
+
+
+.logo-area img {
+	width: 100%;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
+
+.footer-img-area img {
+	width: 100%;
+}
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.header-area {
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+
+.btn1 {
+    background: #237BE5;
+    padding: 10px 10px;
+    color: #fff;  
+    border-radius: 3px;  
+}
+
+.product-area {
+    padding-top: 10px;
+}
+
+.pa-area-left {
+    margin-top: 30px;
+}
+
+.pa-area-right {
+    margin-top: 00px;
+}
+
+.pa-area-right1 {
+    padding-top: 15px;
+}
+
+.pa-area-left1 {
+    padding-top: 10px;
+}
+
+.pa-area-right2 {
+    padding-top: 100px;
+}
+
+.pa-area-left2 {
+    padding-top: 90px;
+}
+
+.pa-area-left3 {
+    padding-top: 90px;
+}
+
+.pa-area-right3 {
+    padding-top: 100px;
+}
+
+.problem-area {
+    margin-top: 20px;
+}
+
+.la-img {
+	padding: 0px 15px;
+}
+
+.pa-area-left1 {
+    padding-top: 30px;
+}
+
+.pa-area-right1 {
+    padding-top: 45px;
+}
+
+.pa-area-right1 h4 {
+	line-height: 35px;
+}
+.pa-area-right1 p {
+	line-height: 25px;
+}
+
+.problem-area {
+    padding: 30px 0px;
+}
+
+.getting-area-right h4 {
+    margin-top: 30px;
+}
+
+.getting-area-right-last h4 {
+    margin-top: 105px;
+}
+
+.Reinforce-area {
+    padding-top: 100px;
+    
+}
+
+
+.btn4 {
+	margin-top: 30px;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+
+.headline-text h3 {
+	font-size: 25px;
+}
+
+.header-area {
+    padding-top: 0px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.btn1 {
+    background: #237BE5;
+    padding: 10px 10px;
+    color: #fff;  
+    border-radius: 3px;  
+}
+
+.product-area {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.pa-area-left {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.pa-area-right {
+    margin-top: 00px;
+}
+
+.pa-area-right1 {
+    padding-top: 15px;
+}
+
+.pa-area-left1 {
+    padding-top: 10px;
+}
+
+.pa-area-right2 {
+    padding-top: 50px;
+}
+
+.pa-area-left2 {
+    padding-top: 60px;
+}
+
+.pa-area-left3 {
+    padding-top: 90px;
+}
+
+.pa-area-right3 {
+    padding-top: 80px;
+}
+
+.problem-area {
+	text-align: center;
+    padding: 0px 0px;
+}
+.la-img {
+	padding: 0px 15px;
+}
+
+.pa-area-left1 {
+    padding-top: 30px;
+}
+
+.pa-area-right1 {
+    padding-top: 45px;
+}
+
+.pa-area-right1 h4 {
+	line-height: 35px;
+}
+.pa-area-right1 p {
+	line-height: 25px;
+}
+
+.problem-area {
+    padding: 30px 0px;
+}
+
+.getting-area {
+	text-align: center;
+}
+
+.getting-area-top {
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.getting-area-top h4 {
+	font-size: 22px;
+}
+
+.getting-area-left {
+    margin: 15px 0px;
+}
+
+.getting-area-right h4 {
+    margin-top: 30px;
+}
+
+.getting-area-right-last h4 {
+    margin-top: 105px;
+}
+
+.Reinforce-area {
+    padding-top: 60px;
+}
+
+.Reinforce-area h2 {
+	font-size: 26px;
+}
+
+.mertric-area {
+    text-align: center;
+}
+
+
+.btn4 {
+	margin-top: 30px;
+    display: block;
+}
+
+.footer-area {
+	text-align: center;
+}
+
+.footer-text-area h4 {
+	font-size: 24px;
+    padding-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+.headline-text h3 {
+	font-size: 20px;
+}
+
+.header-area {
+    padding-top: 0px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.btn1 {
+    background: #237BE5;
+    padding: 10px 10px;
+    color: #fff;  
+    border-radius: 3px;  
+}
+
+.product-area {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.pa-area-left {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.pa-area-right {
+    margin-top: 0px;
+    font-size: 18px;
+}
+
+.pa-area-right1 {
+    padding-top: 15px;
+}
+
+.pa-area-left1 {
+    padding-top: 10px;
+}
+
+.pa-area-right2 {
+    padding-top: 50px;
+}
+
+.pa-area-left2 {
+    padding-top: 25px;
+}
+
+.pa-area-left3 {
+    padding-top: 60px;
+}
+
+.pa-area-right3 {
+    padding-top: 50px;
+}
+
+.problem-area {
+	text-align: center;
+    padding: 0px 0px;
+}
+
+.problem-area-top h3 {
+	font-size: 24px;
+}
+
+.la-img {
+	padding: 0px 15px;
+}
+
+.pa-area-left1 {
+    padding-top: 20px;
+}
+
+.pa-area-right1 {
+    padding-top: 25px;
+}
+
+.pa-area-right1 h4 {
+	line-height: 30px;
+}
+.pa-area-right1 p {
+	line-height: 22px;
+}
+
+.getting-area {
+	text-align: center;
+}
+
+.getting-area-top {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.getting-area-top h4 {
+	font-size: 20px;
+}
+
+.getting-area-left {
+    margin: 15px 0px;
+}
+
+.getting-area-right h4 {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.getting-area-right-last h4 {
+    margin-top: 70px;
+}
+
+.Reinforce-area {
+    padding-top: 40px;
+}
+
+.Reinforce-area h2 {
+	font-size: 20px;
+}
+
+.mertric-area {
+    text-align: center;
+}
+
+.mertric-text h3 {
+	font-size: 22px;
+}
+
+.btn4 {
+	margin-top: 20px;
+    display: block;
+}
+
+.footer-area {
+	text-align: center;
+}
+
+.footer-text-area h4 {
+	font-size: 20px;
+    padding-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
